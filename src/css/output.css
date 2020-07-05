@@ -1,0 +1,23 @@
+.label-position {
+  margin: 30px;
+}
+
+ion-header .position-right {
+  position: absolute;
+  display: flex;
+  right: 0px;
+  top: 0px;
+  padding-top: 15px;
+  padding-right: 20px;
+  flex-direction: row;
+}
+
+.zip-box {
+  left: 0px;
+  width: 200px;
+  font-size: large;
+  position: absolute;
+  padding-top: 20px;
+}
+
+/*# sourceMappingURL=output.css.map */
